@@ -1371,3 +1371,7 @@ blockquote {
     height: auto;
   }
 }
+
+.logo{
+  width: 200px;
+}
